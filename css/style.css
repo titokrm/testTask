@@ -790,6 +790,7 @@ body:before {
     right: 1rem;
     top: 1rem;
     width: 1.5rem;
+    display: block;
   }
   .close img {
     display: block;
