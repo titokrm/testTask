@@ -556,7 +556,7 @@ body:before {
   width: 9.75rem;
 }
 .table__cell--email {
-  max-width: 9.4375rem;
+  max-width: 11.4375rem;
   overflow: hidden;
   -o-text-overflow: ellipsis;
   text-overflow: ellipsis;
